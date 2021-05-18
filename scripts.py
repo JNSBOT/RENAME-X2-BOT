@@ -17,15 +17,14 @@ class Scripted(object):
 <b> ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴏ /dthumbnail ᴄᴏᴍᴍᴀɴᴅ</b> """
 
     ABOUT_TEXT = """
-<b>My Name : <a href='https://t.me/RenameMLBot'>RenameMLBot</a></b>\n
-<b>Channel : <a href='https://t.me/ML_BotUpdates'>• мℓ вσт υρ∂αтєѕ •</a></b>\n
-<b>Version : <a href='https://t.me/RenameMLBot'>0.9.2 beta</a></b>\n
-<b>Source : <a href='https://github.com/kristy-offl'>Click Here</a></b>\n
+<b>My Name : <a href='https://t.me/Jns_renamerpro_bot'>JNS RENAMER PRO</a></b>\n
+<b>Channel : <a href='https://t.me/jns_bots'>ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>\n
+<b>Version : <a href='https://t.me/Jns_renamerpro_bot'>beta v1.01</a></b>\n
 <b>Server : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>Language : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b>\n
-<b>Powered By : <a href='https://t.me/ML_BotUpdates'>• мℓ вσт υρ∂αтєѕ •</a></b>\n"""
+<b>Developer : <a href='https://t.me/jintons'>JINTO NS</a></b>\n
+<b>Powered By : <a href='https://t.me/jns_fc_bots'>SUPPORT GROUP</a></b>\n"""
 
 
 
