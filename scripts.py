@@ -2,21 +2,19 @@ class Scripted(object):
 
 
     PROGRESS_DIS = """\n
-<b>📁Downloading To My Server : {1} | {2}</b>\n
-<b>♂️Percentage : {0}%</b>\n
-<b>⚡Speed: : {3}/s</b>\n
-<b>⏱️Estimated Time: {4}</b>\n"""
+<b>📥ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛᴏ ᴍʏ ꜱᴇʀᴠᴇʀ : {1} | {2}</b>\n
+<b>⛓️ᴘᴇʀᴄᴇɴᴛᴀɢᴇ : {0}%</b>\n
+<b>🚀ꜱᴘᴇᴇᴅ: : {3}/s</b>\n
+<b>🕰️ᴇꜱᴛɪᴍᴀᴛᴇᴅ ᴛɪᴍᴇ: {4}</b>\n"""
 
 
     HELP_TEXT = """
-<b>Watch Video How to Use Me <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
-<b>Send a photo to make it as thumbnail (optional)</b>\n
-<b>Send me any file (or) Media from telegram</b>\n
-<b>Convert files into video use /convert command</b>\n
-<b>Reply to that file with /rename new name.ext</b>\n
-<b>View your thumbnail do /sthumbnail command</b>\n
-<b>Delete your thumbnail do /dthumbnail command</b>"""
-
+<b> ꜱᴇɴᴅ ᴀ ᴘʜᴏᴛᴏ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴀꜱ ᴛʜᴜᴍʙɴᴀɪʟ (ᴏᴘᴛɪᴏɴᴀʟ)</b>\n
+<b> ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ</b>\n
+<b> ᴄᴏɴᴠᴇʀᴛ ꜰɪʟᴇꜱ ɪɴᴛᴏ ᴠɪᴅᴇᴏ ᴜꜱᴇ  /convert ᴄᴏᴍᴍᴀɴᴅ</b>\n
+<b> ʀᴇᴘʟʏ ᴛᴏ ᴛʜᴀᴛ ꜰɪʟᴇ ᴡɪᴛʜ /rename ɴᴇᴡ ɴᴀᴍᴇ.ᴇxᴛ</b>\n
+<b> ᴠɪᴇᴡ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴏ /sthumbnail ᴄᴏᴍᴍᴀɴᴅ</b>\n
+<b> ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴏ /dthumbnail ᴄᴏᴍᴍᴀɴᴅ</b> """
 
     ABOUT_TEXT = """
 <b>My Name : <a href='https://t.me/RenameMLBot'>RenameMLBot</a></b>\n
